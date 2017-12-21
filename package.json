@@ -1,0 +1,28 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoHuy/shopping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoHuy/shopping/issues"
+  },
+  "homepage": "https://github.com/DoHuy/shopping#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bower": "^1.8.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "nunjucks": "^3.0.1"
+  }
+}

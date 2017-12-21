@@ -1,0 +1,21 @@
+{
+  "name": "shopping",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "DoHuy <dohuy171@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/DoHuy/shopping",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
